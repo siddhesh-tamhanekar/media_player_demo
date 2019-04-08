@@ -1,6 +1,6 @@
 # media_player_demo
 
-The Example demonstrates how to use media_player package.
+
 
 ## About Project
 

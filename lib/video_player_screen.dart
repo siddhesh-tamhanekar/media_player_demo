@@ -18,7 +18,7 @@ class _VideoPlayerScreenState extends State<VideoPlayerScreen> {
   @override
   void initState() {
     player =
-        MediaPlayerPlugin.create(isBackground: false, showNotification: false);
+        MediaPlayerPlugin.create(isBackground: true, showNotification: true);
     initVideoPlayer();
     super.initState();
   }
